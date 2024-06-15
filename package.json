@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://crusaider423.github.io/test-2/",
+  "homepage": "https://crusaider423.github.io/test-2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
