@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>gggggggggggggggggggg</h1>
+      <h1>g</h1>
     </>
   );
 }
