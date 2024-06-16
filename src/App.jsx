@@ -1,7 +1,10 @@
+import Routes from "./Routes";
+import Navbar from "./components/NavBar/NavBar";
 function App() {
   return (
     <>
-      <h1>gg</h1>
+      <Navbar />
+      <Routes />
     </>
   );
 }
